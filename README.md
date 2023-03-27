@@ -1,7 +1,7 @@
 # utncurso
 Curso introductorio de uso de python para Bioinformatica
 
-##Contenido
+## Contenido
 
 - Unix
 - Control de version
