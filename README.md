@@ -1,4 +1,4 @@
-# utncurso
+# UTN Curso de Bioinformatica
 Curso introductorio de uso de python para Bioinformatica
 
 ## Contenido
